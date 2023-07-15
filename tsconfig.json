@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "jsx": "react",
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "baseUrl": "./",
+    "typeRoots": ["./typings"],
+    "resolveJsonModule": true,
+    "declaration": true,
+    "declarationDir": "./build",
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true
+  }
+}
